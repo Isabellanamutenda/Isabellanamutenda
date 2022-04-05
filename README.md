@@ -1,6 +1,6 @@
 # Hi, I'm Isabella
 
-I'm a student at Microverse who is passionate about software development and engineering. I believe in making change through software development and helping people move from the old way of life to the current new technology of life. My interests are in Front-end development which include HTML, CSS, bootstrap, React, Redux and JavaScript. Also backend
+I'm a student at Microverse who is passionate about software development and engineering. I believe in making change through software development and helping people move from the old way of life to the current new technology of life. My interests are in Front-end development which include HTML, CSS, bootstrap, React, Redux and JavaScript. Also back-end including Ruby, Ruby on Rails
 
 
 
