@@ -1,4 +1,4 @@
-  # Hi, I'm Isabella Namutenda   
+  # Hi, I'm Isabella Namutenda    
   # Full-stack Web Developer 
 I'm passionate about software development and engineering. I believe in making change through software development and helping people move from the old way of life to the current new technology of life. My interests are in Front-end development and also back-end developmwnt.
 My stacks include: HTML, CSS, Bootstrap, jQuery React, Redux and JavaScript, Ruby, Ruby on Rails.
