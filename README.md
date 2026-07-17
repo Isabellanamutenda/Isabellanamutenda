@@ -9,4 +9,3 @@ My stacks include HTML, CSS, Bootstrap, jQuery, React, Redux, JavaScript, OOP, R
 
      
  
-
